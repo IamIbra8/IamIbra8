@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IamIbra8
+- 👋 Hi, I’m Ibrahim Shaikh
 - 👀 I’m interested in coding, games, and technology
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
